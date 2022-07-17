@@ -19,3 +19,5 @@ cd install-tl
 
 cd ..
 rm -fr install-tl
+
+tlmgr install minted
